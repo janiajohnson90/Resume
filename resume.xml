@@ -40,7 +40,7 @@
     <Experience>
         <Job>
             <Company>Sagitec Solutions</Company>
-            <Title>Technical Writer & Cybersecurity Documentation</Title>
+            <Title>Technical Writer / Cybersecurity Documentation</Title>
             <Dates>Nov 2022 - Aug 2025</Dates>
             <Responsibilities>
                 <Item>Developed and maintained comprehensive user guides, process documentation, and help center articles on secure system usage, employing technical writing methodologies to enhance clarity and usability.</Item>
@@ -55,7 +55,7 @@
         </Job>
         <Job>
             <Company>Oroville Union H.S. District</Company>
-            <Title>Instructional Designer & Lead Instructor</Title>
+            <Title>Instructional Designer / Lead Instructor</Title>
             <Dates>Aug 2016 - Nov 2022</Dates>
             <Responsibilities>
                 <Item>Designed and delivered instructional programs for over 150 participants on secure system usage, user authentication processes, and digital platform best practices.</Item>
@@ -73,7 +73,7 @@
             <Skill>Technical writing and compliance</Skill>
             <Skill>SDLC documentation</Skill>
         </Category>
-        <Category name="Cybersecurity & Security">
+        <Category name="Cybersecurity / Security">
             <Skill>Cybersecurity awareness training</Skill>
             <Skill>Incident analysis and response</Skill>
             <Skill>Data privacy regulations</Skill>
@@ -81,13 +81,13 @@
             <Skill>Security frameworks understanding</Skill>
             <Skill>Secure data handling practices</Skill>
         </Category>
-        <Category name="Collaboration & Tools">
+        <Category name="Collaboration / Tools">
             <Skill>Agile collaboration</Skill>
             <Skill>Version control with Git</Skill>
             <Skill>User permission management</Skill>
             <Skill>Role-based access control</Skill>
         </Category>
-        <Category name="Programming & IT">
+        <Category name="Programming / IT">
             <Skill>Programming languages: C++, C#, Java, Python</Skill>
             <Skill>.NET Core, Angular</Skill>
             <Skill>Web protocols and RESTful APIs</Skill>
