@@ -1,0 +1,116 @@
+<Resume>
+    <Header>
+        <Name>JANIA JOHNSON</Name>
+        <Location>Stephens City, Virginia</Location>
+        <Phone>(406) 600-0623</Phone>
+        <Email>janiajohnson90@gmail.com</Email>
+        <LinkedIn>https://www.linkedin.com/in/jania-johnson-b82aa0206/</LinkedIn>
+        <GitHub>https://github.com/janiajohnson90</GitHub>
+    </Header>
+    <Summary>
+        Technical Writer with extensive experience in cybersecurity documentation and user training.
+        Proven ability to transform complex technical subjects into clear, user-focused content,
+        streamlining SDLC processes and incident response protocols. Expertise in collaborating
+        with cross-functional teams to enhance compliance and security awareness. Completing a BS
+        in Computer Science with a focus on cybersecurity further reinforces technical proficiency
+        and innovative documentation practices.
+    </Summary>
+
+    <Education>
+        <Degree>
+            <Institution>Western Governors University</Institution>
+            <Location>Salt Lake City, UT</Location>
+            <Program>Bachelor of Science, Computer Science</Program>
+            <GraduationDate>Estimated November 2025</GraduationDate>
+        </Degree>
+        <Degree>
+            <Institution>California State University, Chico</Institution>
+            <Location>Chico, CA</Location>
+            <Program>Master of Arts, Education</Program>
+            <GraduationDate>June 2018</GraduationDate>
+        </Degree>
+        <Degree>
+            <Institution>California State University, Chico</Institution>
+            <Location>Chico, CA</Location>
+            <Program>Bachelor of Arts, English</Program>
+            <GraduationDate>June 2017</GraduationDate>
+        </Degree>
+    </Education>
+
+    <Experience>
+        <Job>
+            <Company>Sagitec Solutions</Company>
+            <Title>Technical Writer & Cybersecurity Documentation</Title>
+            <Dates>Nov 2022 - Aug 2025</Dates>
+            <Responsibilities>
+                <Item>Developed and maintained comprehensive user guides, process documentation, and help center articles on secure system usage, employing technical writing methodologies to enhance clarity and usability.</Item>
+                <Item>Authored training materials that educated teams and clients on workflows, authentication, and incident procedures, integrating cybersecurity documentation best practices.</Item>
+                <Item>Reviewed and revised documentation to ensure alignment with industry standards in security and compliance while adhering to established style guidelines.</Item>
+                <Item>Translated complex software processes into accessible content for both technical and non-technical audiences, ensuring customer-focused guidance.</Item>
+                <Item>Identified customer pain points to simplify troubleshooting and improve onboarding processes, collaborating with support and engineering teams.</Item>
+                <Item>Updated documentation based on feedback from customers, support teams, and stakeholders, ensuring continuous improvement and consistency in information deliverables.</Item>
+                <Item>Collaborated with engineering teams to gather essential information, supporting the creation of integrated documentation deliverables for technical cybersecurity products.</Item>
+                <Item>Facilitated training sessions on documentation tools and best practices, fostering agile collaboration and enhancing technical writing capabilities within the team.</Item>
+            </Responsibilities>
+        </Job>
+        <Job>
+            <Company>Oroville Union H.S. District</Company>
+            <Title>Instructional Designer & Lead Instructor</Title>
+            <Dates>Aug 2016 - Nov 2022</Dates>
+            <Responsibilities>
+                <Item>Designed and delivered instructional programs for over 150 participants on secure system usage, user authentication processes, and digital platform best practices.</Item>
+                <Item>Created instructional materials and eLearning modules that incorporated cybersecurity awareness, password hygiene, and data protection measures to ensure clear and compliant communication.</Item>
+                <Item>Led the adoption of new technology platforms by ensuring secure configuration, effective user onboarding, and strict adherence to district IT policies.</Item>
+                <Item>Directed instructional design initiatives including budgeting, scheduling, and content creation for technology-focused training programs, emphasizing clarity and secure practices.</Item>
+                <Item>Supported the district's transition to remote platforms by implementing secure login procedures, multi-factor authentication, and encrypted content sharing processes.</Item>
+            </Responsibilities>
+        </Job>
+    </Experience>
+
+    <Skills>
+        <Category name="Technical Documentation">
+            <Skill>Software and cybersecurity documentation</Skill>
+            <Skill>Technical writing and compliance</Skill>
+            <Skill>SDLC documentation</Skill>
+        </Category>
+        <Category name="Cybersecurity & Security">
+            <Skill>Cybersecurity awareness training</Skill>
+            <Skill>Incident analysis and response</Skill>
+            <Skill>Data privacy regulations</Skill>
+            <Skill>Cybersecurity fundamentals knowledge</Skill>
+            <Skill>Security frameworks understanding</Skill>
+            <Skill>Secure data handling practices</Skill>
+        </Category>
+        <Category name="Collaboration & Tools">
+            <Skill>Agile collaboration</Skill>
+            <Skill>Version control with Git</Skill>
+            <Skill>User permission management</Skill>
+            <Skill>Role-based access control</Skill>
+        </Category>
+        <Category name="Programming & IT">
+            <Skill>Programming languages: C++, C#, Java, Python</Skill>
+            <Skill>.NET Core, Angular</Skill>
+            <Skill>Web protocols and RESTful APIs</Skill>
+            <Skill>IT infrastructure expertise</Skill>
+        </Category>
+    </Skills>
+
+    <Certifications>
+        <Certification>
+            <Name>CompTIA Security+</Name>
+            <Status>In Progress</Status>
+        </Certification>
+        <Certification>
+            <Name>ITIL Foundation Certification</Name>
+            <Date>2024</Date>
+        </Certification>
+        <Certification>
+            <Name>Certified Scrum Master</Name>
+            <Date>2022</Date>
+        </Certification>
+        <Certification>
+            <Name>Linux Essentials</Name>
+            <Date>2024</Date>
+        </Certification>
+    </Certifications>
+</Resume>
